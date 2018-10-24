@@ -1,0 +1,6 @@
+{
+  "name":"python2",
+  "language":"PYTHON",
+  "prelude": " Retourne l'heure locale de la machine."
+  "postlude": ""
+}
