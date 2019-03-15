@@ -1,5 +1,5 @@
 {
-  "name":"python2",
+  "name":"python3",
   "language":"PYTHON",
   "prelude": " Retourne l'heure locale de la machine."
   "postlude": ""
